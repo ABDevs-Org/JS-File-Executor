@@ -1,0 +1,19 @@
+{
+  "name": "@abdevs/js-file-executor",
+  "version": "1.0.0",
+  "description": "A lib to execute javascript code in a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js-executor",
+    "js-file-manager",
+    "addon-manager"
+  ],
+  "author": "ABDevs",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
