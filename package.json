@@ -1,6 +1,6 @@
 {
   "name": "@abdevs/js-file-executor",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A lib to execute Javascript code in a directory",
   "main": "lib/index.js",
   "types": "lib",
