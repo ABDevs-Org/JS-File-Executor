@@ -1,4 +1,4 @@
-import _ from 'colors';
+import 'colors';
 
 function info(message: string) {
     console.log('[INFO]'.blue, '[JS File Executor]'.green, message.blue);
