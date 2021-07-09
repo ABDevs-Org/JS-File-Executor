@@ -2,6 +2,10 @@
 
 A lib that can execute all the Javascript files in the specified directory.
 
+# Support
+
+Join our [Discord Server](http://discord.abdevs.org) for any support related queries.
+
 # Installing
 
 `npm i @abdevs/js-file-executor`
